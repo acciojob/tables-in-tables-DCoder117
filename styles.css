@@ -1,2 +1,12 @@
+table,tr,thead,th,td{
+    border: 1px solid black;
+    align-items: center;
+}
 
-/* Your CSS Code here. */
+.bgBlack{
+    background-color: black;
+}
+
+.colorWhite{
+    color: white;
+}
