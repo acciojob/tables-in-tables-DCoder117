@@ -7,6 +7,10 @@ table,tr,thead,th,td{
     background-color: black;
 }
 
+ul{
+	text-align: center;
+}
+
 .colorWhite{
     color: white;
 	text-align: center;
